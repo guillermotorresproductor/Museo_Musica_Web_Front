@@ -19,4 +19,4 @@ npx serve .
 
 ## Dominios
 
-El dominio canónico es `https://museodelamusicadepuertorico.com/`. Los dominios alternos deben redirigir permanentemente hacia esa URL. No se deben cambiar registros de correo ni nameservers sin inventariar y aprobar previamente el DNS.
+El dominio canónico es `https://museodelamusicadepr.com/`. Los dominios alternos deben redirigir permanentemente hacia esa URL. No se deben cambiar registros de correo ni nameservers sin inventariar y aprobar previamente el DNS.
